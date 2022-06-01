@@ -72,5 +72,8 @@
     <ClCompile Include="Bai 18.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Bai 19 cau truc lap long nhau.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

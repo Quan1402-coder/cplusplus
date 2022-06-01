@@ -157,6 +157,7 @@
     <ClCompile Include="Bai 18.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="Bai 19 cau truc lap long nhau.cpp" />
     <ClCompile Include="Bai 4 a.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
